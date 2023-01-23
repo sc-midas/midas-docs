@@ -6,8 +6,13 @@
 MIDAS' reproducibility documentation
 =================================================
 
+---An instruction for reproducing the manuscript results.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   midas.md
+   prepare.md
+   mosaic.md
+   atlas.md
+   transfer.md
