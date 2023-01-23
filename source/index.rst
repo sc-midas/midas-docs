@@ -7,7 +7,7 @@ MIDAS' reproducibility documentation
 =================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    midas.md
