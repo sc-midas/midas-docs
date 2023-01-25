@@ -8,6 +8,13 @@ MIDAS' reproducibility documentation
 
 ---An instruction for reproducing the manuscript results.
 
+.. figure:: midas.png
+   :width: 800
+   :alt: midas figure
+   :align: center
+
+   MIDAS turns mosaic data into imputed and batch-corrected data to support single-cell multimodal analysis.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
