@@ -11,7 +11,7 @@ MIDAS' reproducibility documentation
 .. figure:: midas.png
    :width: 800
    :alt: midas figure
-   :align: center
+   :align: left
 
    MIDAS turns mosaic data into imputed and batch-corrected data to support single-cell multimodal analysis.
 
